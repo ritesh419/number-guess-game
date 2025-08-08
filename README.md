@@ -38,11 +38,13 @@ A simple and fun browser-based game built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📸 Screenshot
 
-![Game Screenshot](screenshot.png) <!-- (Optional: add screenshot file in your repo) -->
 
 ---
 
 ## 📁 File Structure
-
+/number-guess-game
+├── index.html
+├── style.css
+├── script.js
+└── README.md
